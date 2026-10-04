@@ -1,6 +1,6 @@
                                     coloros 16 camera copy
 
-
+coloros 16 camera copy still in developement
 
 Welkom to coloros 16.1 camera copy this is still just in beta but public beta is set to release in november or december
 
